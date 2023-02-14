@@ -1,8 +1,7 @@
 #!/usr/bin/env bash
 
 # Replace YOUR_USERNAME and YOUR_PASSWORD with your MySQL credentials
-USERNAME="YOUR_USERNAME"
-PASSWORD="YOUR_PASSWORD"
+
 
 # Check if the database name was passed as an argument
 if [ $# -eq 0 ]; then
