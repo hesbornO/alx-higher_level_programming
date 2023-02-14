@@ -1,8 +1,7 @@
 #!/usr/bin/env bash
 
 # Replace YOUR_USERNAME and YOUR_PASSWORD with your MySQL credentials
-USERNAME="YOUR_USERNAME"
-PASSWORD="YOUR_PASSWORD"
+
 DB_NAME="hbtn_0c_0"
 
 # Use mysql to create the database if it doesn't exist
